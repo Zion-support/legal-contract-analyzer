@@ -1,22 +1,14 @@
-# Legal Contract Analyzer — Zion AI App Network
+# Legal Contract Analyzer
 
-AI-powered contract review: clause extraction, risk flagging, deviation detection against your playbook, and plain-language summaries.
+AI contract review with obligation extraction and risk heatmaps.
 
-**Live app:** https://ziontechgroup.com/legal-contract-analyzer/
-**Free AI Discovery (always free, always online):** https://ziontechgroup.com/discovery/
-**Network hub:** https://github.com/Zion-support/zion-app-network
+> Part of the **Zion AI App Network** — see [ZION_APP_NETWORK.md](./ZION_APP_NETWORK.md) for the full interlinked directory.
 
-## Features
-- Clause-by-clause extraction (termination, indemnity, liability caps, IP, renewal)
-- Risk scoring with redline suggestions
-- Playbook deviation report exportable to PDF/Notion
-- Multi-language contracts (EN/PT/ES)
+## 🎯 Free AI Discovery
+Take our **free, always-online Discovery**: https://ziontechgroup.com/discovery/ — results shared instantly with you and commercial@ziontechgroup.com.
 
-## Sibling apps in Batch 74 — Legal & Compliance AI
-- [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer)
-- [GDPR DSAR Autopilot](https://github.com/Zion-support/gdpr-dsar-autopilot)
-- [Litigation Hold Manager](https://github.com/Zion-support/litigation-hold-manager)
-- [Vendor Risk Assessor](https://github.com/Zion-support/vendor-risk-assessor)
-- [Regulatory Change Radar](https://github.com/Zion-support/regulatory-change-radar)
-
-See [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md) for the full interlink map.
+## 🔗 Links
+- Homepage: https://ziontechgroup.com
+- Plans: https://ziontechgroup.com/en/plans/
+- Showcase: https://ziontechgroup.com/apps/network.html
+- Hub: https://github.com/Zion-support/zion-network

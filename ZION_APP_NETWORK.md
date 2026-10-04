@@ -1,17 +1,23 @@
-# Zion App Network — Interlinks
+# 🌐 Zion AI App Network — Interlink Directory
 
-This app is part of the **Zion AI App Network** (343+ apps): https://github.com/Zion-support/zion-app-network
+Part of the **Zion AI App Network** by [Zion Tech Group](https://ziontechgroup.com).
 
-- Hub directory: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
-- Batch 74 spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-04-BATCH74.md
-- Homepage: https://ziontechgroup.com | Plans: https://ziontechgroup.com/en/plans/ | Free Discovery: https://ziontechgroup.com/discovery/
+- Free AI Discovery: https://ziontechgroup.com/discovery/ (results to you + commercial@ziontechgroup.com)
+- Plans: https://ziontechgroup.com/en/plans/
+- Showcase: https://ziontechgroup.com/apps/network.html
+- Hub: https://github.com/Zion-support/zion-network
 
-## Batch 74 — Legal & Compliance AI
-| App | Repo | Live |
-|---|---|---|
-| Legal Contract Analyzer | this repo | https://ziontechgroup.com/legal-contract-analyzer/ |
-| Compliance Policy Writer | https://github.com/Zion-support/compliance-policy-writer | https://ziontechgroup.com/compliance-policy-writer/ |
-| GDPR DSAR Autopilot | https://github.com/Zion-support/gdpr-dsar-autopilot | https://ziontechgroup.com/gdpr-dsar-autopilot/ |
-| Litigation Hold Manager | https://github.com/Zion-support/litigation-hold-manager | https://ziontechgroup.com/litigation-hold-manager/ |
-| Vendor Risk Assessor | https://github.com/Zion-support/vendor-risk-assessor | https://ziontechgroup.com/vendor-risk-assessor/ |
-| Regulatory Change Radar | https://github.com/Zion-support/regulatory-change-radar | https://ziontechgroup.com/regulatory-change-radar/ |
+## Sister apps
+- [litigation-doc-reviewer](https://github.com/Zion-support/litigation-doc-reviewer)
+- [regulation-change-tracker](https://github.com/Zion-support/regulation-change-tracker)
+- [privacy-request-handler](https://github.com/Zion-support/privacy-request-handler)
+- [legal-doc-drafter](https://github.com/Zion-support/legal-doc-drafter)
+- [contract-clause-analyzer](https://github.com/Zion-support/contract-clause-analyzer)
+- [compliance-gap-scanner](https://github.com/Zion-support/compliance-gap-scanner)
+- [legal-contract-analyzer](https://github.com/Zion-support/legal-contract-analyzer)
+- [litigation-hold-manager](https://github.com/Zion-support/litigation-hold-manager)
+- [gdpr-dsar-autopilot](https://github.com/Zion-support/gdpr-dsar-autopilot)
+- [support-sentiment-radar](https://github.com/Zion-support/support-sentiment-radar)
+- [onboarding-journey-optimizer](https://github.com/Zion-support/onboarding-journey-optimizer)
+- [nps-insight-copilot](https://github.com/Zion-support/nps-insight-copilot)
+- [customer-feedback-analyzer](https://github.com/Zion-support/customer-feedback-analyzer)
